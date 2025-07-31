@@ -10,3 +10,9 @@
 ## 👩🏽‍💻 Aprendendo
 - **JavaScript**
 - **TypeScript**
+
+---
+
+## 🌍 Conecte-se comigo
+[LinkedIn] (https://www.linkedin.com/in/michele-barbosa-0b7002340)
+[Lattes] (https://lattes.cnpq.br/5975652703797895)
