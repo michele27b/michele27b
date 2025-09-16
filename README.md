@@ -10,6 +10,7 @@
 ## 👩🏽‍💻 Aprendendo
 - **JavaScript**
 - **TypeScript**
+- **Python**
 
 ---
 
